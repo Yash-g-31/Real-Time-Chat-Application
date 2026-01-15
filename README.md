@@ -19,7 +19,7 @@ A full-stack chat application built with Django REST Framework for the backend a
 - **Django 5.2.8**: Web framework for building the API.
 - **Django REST Framework**: For building RESTful APIs.
 - **Simple JWT**: For token-based authentication.
-- **SQLite**: Database for development (easily configurable for production).
+- **SQLite**: Database.
 - **Django CORS Headers**: To handle cross-origin requests.
 - **Python-dotenv**: For environment variable management.
 
@@ -28,9 +28,7 @@ A full-stack chat application built with Django REST Framework for the backend a
 - **Vite**: Build tool for fast development and bundling.
 - **Axios**: HTTP client for API requests.
 - **Bootstrap 5.3.8**: CSS framework for responsive design.
-- **Tailwind CSS 4.1.17**: Utility-first CSS framework for styling.
-- **Moment.js**: For date and time formatting.
-- **ESLint**: For code linting.
+- **CSS**: CSS for styling.
 
 ## Prerequisites
 
